@@ -1,0 +1,334 @@
+
+@import url("https://fonts.googleapis.com/earlyaccess/notokufiarabic.css");
+
+body {
+    font-family: 'Noto Kufi Arabic', sans-serif !important;
+    background-color: #3f405b;
+    color: #f1f6ff;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    border-top: 6px #6c4ef6 solid !important;
+    font-size: 16px;
+    background-image: url("https://auxetite-cdn.sirv.com/b.svg") !important;
+    background-position: top right !important;
+    background-size: 60% !important;
+    background-repeat: no-repeat !important;
+}
+
+.al3nwan {
+text-align: center;
+font-size: x-large;
+font-weight: bold;
+    margin: 10px;
+
+
+}
+.commands {
+text-align: left;
+
+
+}
+
+.support {
+
+
+
+}
+
+.panel {
+
+
+
+}
+
+.inviteme {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    max-width: 500px;
+    height: 300px;
+    }
+
+
+
+
+
+   
+    @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Tajawal&display=swap');
+.fwad {
+    font-weight: bold;
+    color: white;
+    font-size: 28px ;
+    margin: 400px 150px 20px 0px;
+    font-weight: bold;
+    display: flex;
+
+
+
+}
+.image1 {
+
+  margin: 80px 150px /*t7t*/0px 200px;
+  display: flex;
+
+}
+
+
+.button {
+    background-color:  rgb(228, 125, 241); /* Green */
+    border: none;
+    color: aquamarine;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    display: flex;
+
+  }
+  .button1 {
+    background-color: aquamarine; 
+    color: white;
+    font-weight: bold; 
+    border: 2px  rgb(228, 125, 241);
+    width: 250px;
+    height: 75px;
+    float: inherit;
+    display: flex;
+
+}
+  
+  .button1:hover {
+    background-color: rgb(228, 125, 241);
+    color: aquamarine;
+    display: flex;
+
+  }
+  .info {
+    font-size: 16px;
+    margin: 0px 150px 5px 0px;
+    color: #3f405b;
+    font-weight: bolder;
+    display: flex;
+
+
+  }
+  li {
+    list-style-type: none;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+html, body{
+  height: 100%;
+  font-weight: 800;
+}
+
+body{
+  background: #030321;
+  font-family: Arial;
+}
+
+svg {
+    display: block;
+    font: 10.5em 'Montserrat';
+    width: 960px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1){
+	stroke: #4D163D;
+	animation-delay: -1;
+}
+
+.text-copy:nth-child(2){
+	stroke: #840037;
+	animation-delay: -2s;
+}
+
+.text-copy:nth-child(3){
+	stroke: #BD0034;
+	animation-delay: -3s;
+}
+
+.text-copy:nth-child(4){
+	stroke: #BD0034;
+	animation-delay: -4s;
+}
+
+.text-copy:nth-child(5){
+	stroke: #FDB731;
+	animation-delay: -5s;
+}
+
+@keyframes stroke-offset{
+	100% {stroke-dashoffset: -35%;}
+}
+
+
+.defend {
+  width: 300px;
+  margin: 200px 680px 5px 0px ;
+  font-size: 19px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+  color : white;
+  font-weight: bold;
+  display: flex;
+
+}
+.top1 {
+  width: 300px;
+  margin: 0px 1000px 5px 0px ;
+  font-size: 19px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+    color : white;
+    font-weight: bold;
+    display: flex;
+
+
+}
+
+.embeed {
+  width: 300px;
+  margin: 0px 680px 5px 0px ;
+  font-size: 19px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+    color : white;
+    font-weight: bold;
+    display: flex;
+
+
+}
+
+.welcomer {
+ 
+  font-size: 19px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+    color : white;  
+    font-weight: bold;
+    display: flex;
+
+
+    width: 300px;
+    margin: 0px 1000px 5px 0px ;
+  }
+
+.top-info {
+  width: 300px;
+  margin: 0px 1000px 0px 0px ;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+  color: #6c4ef6;;
+  display: flex;
+
+  
+
+}
+.def-info {
+
+  width: 300px;
+  margin: 0px 680px 20px 0px ;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+  color: #FDB731;
+  display: flex;
+
+
+}
+
+.embed {
+  width: 300px;
+  margin: 0px 680px 0px 0px ;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+  color: #6c4ef6;;
+  display: flex;
+
+  
+
+}
+
+.infowlc {
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'Tajawal', 'Montserrat', sans-serif;
+  color: #FDB731;;
+  width: 300px;
+  margin: 0px 1000px -790px 0px ;
+  display: flex;
+
+}
+
+.loader-wrapper {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 100%;
+  left: 100%;
+  background-color: #242f3f;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
+
+.loader {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border: 4px solid #Fff;
+  animation: loader 2s infinite ease;
+  display: flex;
+}
+
+body::-webkit-scrollbar {
+  width: 1em;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+
+.discord-server-widget {
+  
+  margin: 30px 490px 30px 10px;
+  
+}
+
+#button-panel {
+  
+  FONT-SIZE: 16PX;
+ background: -webkit-gradient(linear,left top,right top,from(#6778f6),to(#5aa9e0));
+ background: -webkit-linear-gradient(left,#6850ff,#a750ff);
+ background: -o-linear-gradient(left,#6850ff 0,#a750ff 100%);
+ background: linear-gradient(90deg,#6850ff,#a750ff);
+}
